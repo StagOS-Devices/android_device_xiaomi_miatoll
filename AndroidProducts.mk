@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_miatoll.mk
+    $(LOCAL_DIR)/stag_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_miatoll-user \
-    aosp_miatoll-userdebug \
-    aosp_miatoll-eng
+    stag_miatoll-user \
+    stag_miatoll-userdebug \
+    stag_miatoll-eng
