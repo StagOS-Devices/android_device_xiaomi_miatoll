@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/genesis_miatoll.mk
+    $(LOCAL_DIR)/stag_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    genesis_miatoll-ap1a-user \
-    genesis_miatoll-ap1a-userdebug \
-    genesis_miatoll-ap1a-eng
+    stag_miatoll-ap2a-user \
+    stag_miatoll-ap2a-userdebug \
+    stag_miatoll-ap2a-eng

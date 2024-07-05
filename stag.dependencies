@@ -1,0 +1,31 @@
+[
+    {
+        "repository": "vendor_xiaomi_miatoll",
+        "target_path": "vendor/xiaomi/miatoll",
+        "branch": "u14"
+    },
+    {
+        "remote": "github",
+        "repository": "ULTIMATE-RITESH/kernel_xiaomi_sm6250",
+        "target_path": "kernel/xiaomi/sm6250",
+        "branch": "main"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_xiaomi",
+        "target_path": "hardware/xiaomi",
+        "branch": "lineage-21"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_sony_timekeep",
+        "target_path": "hardware/sony/timekeep",
+        "branch": "lineage-21"
+    },
+    {
+        "remote": "github",
+        "repository": "ULTIMATE-RITESH/hardware_qcom_audio",
+        "target_path": "hardware/qcom-caf/sm8150/audio",
+        "branch": "lineage-21.0-caf-sm8150"
+    }
+]
